@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(105, 107, 108);
+}
+
+.sun {
+    background-color: rgb(178, 46, 22);
+    bottom: 0;
+    opacity: 0.4;
+}
